@@ -17,3 +17,10 @@ This creative coding project is a musical composition remake of one of the most 
 
 ## General info
 This project explores the music and code of DDLJ's title song using Tunepad with Python's programming features. Tunepad is a empowering platform that allows users to code music and express themselves creatively by providing programmable instruments, looping and editing (Horn et al. 2022). Bollywood music is often rarely represented in algorithmic music and traditionally focuses more on Western music. This project emphasises on blending cultural heritage and code literacy in music by integrating a meaningful tune into Tunepad.
+
+## Technologies Used
+- Tunepad (Python programming)
+- GitHub
+- Miro
+- iMovie
+- Voice Memo
