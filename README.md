@@ -12,6 +12,7 @@ This creative coding project is a musical composition remake of one of the most 
 * [Screenshots](#screenshot)
 * [Usage](#usage)
 * [Project Status](#projectstatus)
+* [Room for Improvement](#roomforimprovement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -38,7 +39,11 @@ Documentation - personal journal entries, concept maps, screenshots, references
 - To listen to the background music run all the drums together
 
 ## Project Status
+Project is complete and due on 4/11/25
 
 ## Acknowledgements
-
+This project was inspired by the iconic Bollywood movie Dilwale Dulhania Le Jayenge
+This project was created through the online platform, Tunepad
+Thanks to my tutor who guided me throughout the semester and canvas materials
+Thanks to all the resources that are listed in my reference list
 ## Contact
