@@ -24,3 +24,9 @@ This project explores the music and code of DDLJ's title song using Tunepad with
 - Miro
 - iMovie
 - Voice Memo
+
+## Features
+Melody - main tune of DDLJ
+Harmony - background music of drums and beatboxing
+Documentation - personal journal entries, concept maps, screenshots, references
+
