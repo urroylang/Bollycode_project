@@ -45,5 +45,8 @@ Project is complete and due on 4/11/25
 This project was inspired by the iconic Bollywood movie Dilwale Dulhania Le Jayenge
 This project was created through the online platform, Tunepad
 Thanks to my tutor who guided me throughout the semester and canvas materials
-Thanks to all the resources that are listed in my reference list
+Academic resources that are listed in my reference list
+
 ## Contact
+Created by me (Urbashi Roy)
+contact: urbashi.roy@student.uts.edu.au
