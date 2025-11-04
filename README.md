@@ -32,6 +32,7 @@ Harmony - background music of drums and beatboxing
 Documentation - personal journal entries, concept maps, screenshots, references
 
 ## Screenshots
+Refer to GitHub and A2 for all screenshots
 
 ## Usage
 - Press play to listen to the whole coding music together
