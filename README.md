@@ -30,3 +30,15 @@ Melody - main tune of DDLJ
 Harmony - background music of drums and beatboxing
 Documentation - personal journal entries, concept maps, screenshots, references
 
+## Screenshots
+
+## Usage
+- Press play to listen to the whole coding music together
+- To listen to the main melody run the acoustic guitar on its own
+- To listen to the background music run all the drums together
+
+## Project Status
+
+## Acknowledgements
+
+## Contact
