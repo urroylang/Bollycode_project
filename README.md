@@ -42,6 +42,11 @@ Refer to GitHub and A2 for all screenshots
 ## Project Status
 Project is complete and due on 4/11/25
 
+## Room for Improvement
+- Broaden my musical scope and make it more intricate and complex
+- Refining the layers of certain notes
+- More research on how to combine multiple tunes together that work well
+  
 ## Acknowledgements
 This project was inspired by the iconic Bollywood movie Dilwale Dulhania Le Jayenge
 This project was created through the online platform, Tunepad
